@@ -50,7 +50,7 @@
     </section>
     <section>
         <h2>My Projects</h2>
-        <p>I mostly work on Java, HTML, CSS and Springboot</p>
+        <p>I mostly work on HTML, CSS and JavaScript, currently learning ReactJS for FrontEnd</p>
         <div>
             <div>
                 <a href = "Add"><img src="Calculator.png" width ="50" alt = "Calculator"></a>
