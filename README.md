@@ -26,7 +26,7 @@
             </div>
             <div>
                 <h6>Gaurang Sahu</h6>
-                <h1>I am a Java Developer</h1>
+                <h1>I am a Javascript Developer</h1>
                 <p>Description</p>
                 <button>Download Resume</button>
             </div>
