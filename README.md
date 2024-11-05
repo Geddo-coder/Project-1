@@ -53,16 +53,6 @@
         <p>I mostly work on HTML, CSS and JavaScript, currently learning ReactJS for FrontEnd</p>
         <div>
             <div>
-                <a href = "Add"><img src="Calculator.png" width ="50" alt = "Calculator"></a>
-                <h3>Calculator</h3>
-                <p>Description</p>
-            </div>
-            <div>
-                <a href = "Add"><img src="Cartlogo.png" width ="50" alt = "Shoppi ng Cart"></a>
-                <h3>Shopping Cart</h3>
-                <p>Description</p>
-            </div>
-            <div>
                 <a href = "Add"><img src="To-Do list.png" width ="50" alt = "To-Do list"></a>
                 <h3>To-Do List</h3>
                 <p>Description</p>
